@@ -1,4 +1,4 @@
-/* MAIN STYLE */
+/**MAIN STYLE*/
 
 :root {
   --primary-color: #212121;
@@ -64,7 +64,7 @@ body {
   background: var(--background-color);
 }
 
-/* MAIN LOGO */
+/**MAIN LOGO*/
 
 .logo {
   font-family: 'Raleway';
@@ -83,7 +83,7 @@ body {
   color: var(--white-color);
 }
 
-/* MAIN NAV + CONTACT*/
+/**MAIN NAV + CONTACT*/
 
 .main-nav {
   font-weight: 500;
@@ -107,7 +107,7 @@ body {
   text-decoration: none;
 }
 
-/* MAIN BANER */
+/**MAIN BANER*/
 
 .baner {
   text-transform: uppercase;
@@ -129,7 +129,7 @@ button {
   font-family: inherit;
 }
 
-/* MAIN WORK */
+/**MAIN WORK*/
 
 .other-info1 {
   font-weight: 700;
@@ -144,7 +144,7 @@ button {
   color: var(--grey-color);
 }
 
-/* MAIN TEAM */
+/**MAIN TEAM*/
 
 .name {
   font-weight: 500;
@@ -159,7 +159,7 @@ button {
   color: var(--grey-color);
 }
 
-/* ФУТЕР */
+/**ФУТЕР*/
 
 address {
   font-style: normal;
@@ -178,7 +178,7 @@ address {
   color: var(--contactfooter-color);
 }
 
-/* MAIN PORTFOLIO */
+/**MAIN PORTFOLIO*/
 
 .button {
   font-weight: 700;
